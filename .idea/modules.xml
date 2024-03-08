@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookApp/BookApp.iml" filepath="$PROJECT_DIR$/BookApp/BookApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDemos/InterfaceDemos.iml" filepath="$PROJECT_DIR$/InterfaceDemos/InterfaceDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDemos.iml" filepath="$PROJECT_DIR$/JavaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingDemos/MultiThreadingDemos.iml" filepath="$PROJECT_DIR$/MultiThreadingDemos/MultiThreadingDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPsDemos/OOPsDemos.iml" filepath="$PROJECT_DIR$/OOPsDemos/OOPsDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilDemos/UtilDemos.iml" filepath="$PROJECT_DIR$/UtilDemos/UtilDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoterApp/VoterApp.iml" filepath="$PROJECT_DIR$/VoterApp/VoterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionDemos/exceptionDemos.iml" filepath="$PROJECT_DIR$/exceptionDemos/exceptionDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAPIDemos/javaAPIDemos.iml" filepath="$PROJECT_DIR$/javaAPIDemos/javaAPIDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userApp/userApp.iml" filepath="$PROJECT_DIR$/userApp/userApp.iml" />
+    </modules>
+  </component>
+</project>

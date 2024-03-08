@@ -1,0 +1,12 @@
+package com.inter.basics;
+
+public class ZipCompressor implements ICompressor {
+
+    @Override
+    public String[] compressFiles(String file1, String file2) {
+        String[] zippedFiles = new String[3];
+        zippedFiles[0] = file1;
+        zippedFiles[1] = file2;
+        return zippedFiles;
+    }
+}
